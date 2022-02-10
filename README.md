@@ -39,7 +39,7 @@ vault auth enable kubernetes
 
 ```bash
 git add .
-git commit -m "fix: set vault url"
+git commit -m "fix: set vault url" 
 git push origin main
 ```
 
